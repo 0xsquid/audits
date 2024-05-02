@@ -6,7 +6,7 @@ We conduct ongoing audits that review all changes to the code to ensure a high d
 
 |  Date   | Auditor                                                           | Scope                                                                                                                   |
 | :-----: | :---------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
-| 2024-01 | [Kaden](audits/2024-04%20Kaden.pdf)                               | `SquidRouter.sol`, `SquidMulticall.sol`                                                                                 |
+| 2024-04 | [Kaden](audits/2024-04%20Kaden.pdf)                               | `SquidRouter.sol`, `SquidMulticall.sol`                                                                                 |
 | 2024-01 | [Ackee Blockchain](audits/2024-01%20Ackee%20Blockchain.pdf)       | `DepositReceiver.sol`, `ReceiverImplementation.sol`, `SquidDepositService.sol`, `SquidRouter.sol`, `SquidMulticall.sol` |
 | 2023-06 | [Ackee Blockchain](audits/2023-06%20Ackee%20Blockchain.pdf)       | `DepositReceiver.sol`, `ReceiverImplementation.sol`, `SquidDepositService.sol`, `SquidRouter.sol`, `SquidMulticall.sol` |
 | 2023-02 | [Ackee Blockchain](audits/2023-02%20Ackee%20Blockchain.pdf)       | `SquidRouter.sol`                                                                                                       |
